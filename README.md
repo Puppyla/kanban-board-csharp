@@ -1,6 +1,7 @@
 # 📋 Quadro Kanban - Controle de Tarefas
 
 Um sistema simples de gerenciamento de tarefas usando metodologia Kanban com backend em C# (ASP.NET Core) e frontend web responsivo.
+Uso de WindSurf IA
 
 ## 🚀 Funcionalidades
 
